@@ -1,0 +1,6 @@
+D:\Working\ImageRename\bin\Debug\ImageRename.exe.config
+D:\Working\ImageRename\bin\Debug\ImageRename.exe
+D:\Working\ImageRename\bin\Debug\ImageRename.pdb
+D:\Working\ImageRename\obj\Debug\ImageRename.exe
+D:\Working\ImageRename\obj\Debug\ImageRename.pdb
+D:\Working\ImageRename\obj\Debug\ImageRename.csprojResolveAssemblyReference.cache
